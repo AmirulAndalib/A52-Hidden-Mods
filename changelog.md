@@ -3,11 +3,11 @@ Running on devices with another patch can cause issues!
 
 ---
 <b>Changelog:</b>
-• Fixed UI crash/system app stop (Removed now obsolete Samsung Smart Suggestions APK)
-• Added Hearing aid compatibility.
+<br />• Fixed UI crash/system app stop (Removed now obsolete Samsung Smart Suggestions APK)
+<br />• Added Hearing aid compatibility.
 To use it, navigate to Hearing enhancements -> Hearing aid support, to switch on the toggle.
-• Added S-Pen hovering detachment support
-• Added audio enhancements
-• Added battery enhancements
-• Added Bixby enhancements
-• Added camera enhancements
+<br />• Added S-Pen hovering detachment support
+<br />• Added audio enhancements
+<br />• Added battery enhancements
+<br />• Added Bixby enhancements
+<br />• Added camera enhancements
