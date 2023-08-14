@@ -52,6 +52,8 @@ Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ)
 - Color Lens support
 - HDR Effect support
 - DSP Volume Monitoring
+- Added Hearing aid compatibility
+- Added S-Pen hovering detachment support
 
 #### Added Camera Features:
 - Extended pro (video) mode features: Histogram, Focus peaking, Zoom, Reset button, Expanded shutter speed
