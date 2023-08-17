@@ -1,7 +1,7 @@
 id=a52mods
 name=A52 Hidden Mods
-version=v2.5.7
-versionCode=45
+version=v2.5.8
+versionCode=46
 author=daft plonker, Sloobot & UltraHQ
 description=Adds S-Series features to the Galaxy A52.
 updateJson=https://raw.githubusercontent.com/daft-plonker/A52-Hidden-Mods/main/update.json
