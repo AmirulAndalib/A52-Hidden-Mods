@@ -1,6 +1,8 @@
 ![a52banner](https://i.imgur.com/Xp3zFk2.png)
 # A52-Hidden-Mods
 
+# ⚠️ - No support given anymore. I no longer have an A52 so will not be able to update this module. If you want to keep this project alive you can fork it and add your own updates, fixes etc.
+
 Credit goes to the original creator UltraHQ [Github](https://github.com/UltraHQ) and Sloobot [Github](https://github.com/Sloobot) for porting to the A52. This is a continuation on Sloobot's work.
 
 ### Installation:
